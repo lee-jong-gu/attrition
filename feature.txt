@@ -1,0 +1,65 @@
+1. Age : 해당 직원의 나이
+2. Attrition : 퇴직 여부 Target값 (종속변수)
+3. BusinessTravel : 출장의 빈도
+4. DailyRate : 일 대비 급여의 수준
+5. Department : 업무분야
+6. DistanceFromHome : 집과의 거리
+7. Education : 교육의 정도
+    - 1 : ‘Below College’ : 대학 이하
+    - 2 : ‘College’ : 전문대
+    - 3 : ‘Bachelor’ : 학사
+    - 4 : ‘Master’ : 석사
+    - 5 : ‘Doctor’ : 박사
+8. EducationField : 전공
+9. EmployeeCount : 직원 숫자
+10. EmployeeNumber : 직원 ID
+11. EnvironmentSatisfaction : 업무 환경에 대한 만족도
+    - 1 : ‘Low’
+    - 2 : ‘Medium’
+    - 3 : ‘High’
+    - 4 : ‘Very High’
+12. Gender : 성별
+13. HourlyRate : 시간 대비 급여의 수준
+14. JobInvolvement : 업무 참여도
+    - 1 : ‘Low’
+    - 2 : ‘Medium’
+    - 3 : ‘High’
+    - 4 : ‘Very High’
+15. JobLevel : 업무의 수준
+16. JobRole : 업무 종류
+17. JobSatisfaction : 업무 만족도
+    - 1 : ‘Low’
+    - 2 : ‘Medium’
+    - 3 : ‘High’
+    - 4 : ‘Very High’
+18. MaritalStatus : 결혼 여부
+19. MonthlyIncome : 월 소득
+20. MonthlyRate : 월 대비 급여 수준
+21. NumCompaniesWorked : 일한 회사의 수 
+22. Over18 : 18세 이상
+23. OverTime : 규정외 노동시간
+24. PercentSalaryHike : 급여의 증가분 백분율
+25. PerformanceRating : 업무 성과
+    - 1 : ‘Low’
+    - 2 : ‘Good’
+    - 3 : ‘Excellent’
+    - 4 : ‘Outstanding’
+26. RelationshipSatisfaction : 대인관계 만족도
+    - 1 : ‘Low’
+    - 2 : ‘Medium’
+    - 3 : ‘High’
+    - 4 : ‘Very High’
+27. StandardHours : 표준 시간
+28. StockOptionLevel : 스톡옵션 정도
+29. TotalWorkingYears : 경력 기간
+30. TrainingTimesLastYear : 교육 시간
+31. WorkLifeBalance : 일과 생활의 균형 정도
+    - 1 : ‘Bad’
+    - 2 : ‘Good’
+    - 3 : ‘Better’
+    - 4 : ‘Best’
+32. YearsAtCompany : 근속 연수
+33. YearsInCurrentRole : 현재 역할의 년수
+34. YearsSinceLastPromotion : 마지막 프로모션
+35. YearsWithCurrManager : 현재 관리자와 함께 보낸 시간
+- 총 독립변수 : 34개, 종속변수 1개 확인 됩니다.
